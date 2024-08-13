@@ -1,0 +1,4 @@
+base.db
+ffmpeg/
+__pycache__/
+*.pyc
