@@ -1,4 +1,6 @@
 base.db
 ffmpeg/
 __pycache__/
+music/
+Archive/
 *.pyc

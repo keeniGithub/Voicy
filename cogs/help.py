@@ -34,7 +34,6 @@ class Help(commands.Cog):
 
 **Партнеры**
 
-> [Radio PlusVibe](https://discord.gg/9M6EZVyQ) - Радиостанция с жанром музыки POP
 > [Radio KetaRu](https://live.ketaru.com/) - Радиостанция, Discord бот, веб приложения и многое другое
 
 **Ссылки**

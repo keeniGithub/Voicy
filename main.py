@@ -9,7 +9,7 @@ import platform
 intents = disnake.Intents.default()
 intents.voice_states = True
 
-TOKEN = config.TOKEN_TEST
+TOKEN = config.TOKEN
 
 bot = commands.Bot(command_prefix=None, intents=intents, reload=True)
 
@@ -52,5 +52,5 @@ async def on_button_click(interaction: disnake.MessageInteraction):
             )
             await interaction.response.send_message(embed=embed, ephemeral=True)
 
-if platform.system() != "Windows": TOKEN = config.TOKEN
+# if platform.system() != "Windows": TOKEN = config.TOKEN
 bot.run(TOKEN)
