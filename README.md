@@ -20,3 +20,8 @@
 ```bash
 $ pip install disnake
 ```
+
+# Спасибо:
+
+- <h3>yablochkin | Radio PlusVibe</h3>
+- <h3>lisik.me | KetaruCorp</h3>
