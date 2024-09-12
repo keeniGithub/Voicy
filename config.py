@@ -2,9 +2,9 @@ ver = "1.5.0"
 
 cogs_path = "cogs"
 
-TOKEN = "MTEwNTUwMDczMzMzMzMxNTY0NA.GGLbHs.oDpqXRFuHXqs0bIbpY0qez6aIATa524XsXjyHM"
-TOKEN_TEST = "MTE4MzgzNDA0ODkwMTE1Njk4Ng.GBrTYM.ma6ytDyIOz4_yPMZkGNCFxs6bzekcTMKYESpEc"
-YA_TOKEN = "y0_AgAAAABigex2AAG8XgAAAAEJ3aCGAAAAbn5wFFJI0qUv_vh18T-PpgKSyQ"
+TOKEN = ""
+TOKEN_TEST = ""
+YA_TOKEN = ""
 Activity = "voicy.site"
 
 RadioListJson_path = "list/radio_list.json"
