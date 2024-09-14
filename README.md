@@ -7,6 +7,7 @@
 - [Документация](https://github.com/keeniGithub/Voicy.site/blob/main/documentations/Docs/Documentation.md)
 - [Документация (Сайт)](https://voicy.site/documentations/)
 - [Сайт](https://voicy.site)
+- [Сайт (Репозиторий)](https://github.com/KenykaGit/Voicy.site)
 - [Voicy Community](https://discord.gg/4ed6dbJZvZ)
 - [Политика конфидацеальности](https://github.com/keeniGithub/Voicy.site/blob/main/documentations/PrivacyPolicy/Privacy.md)
 - [Пользовательское соглашения](https://github.com/keeniGithub/Voicy.site/blob/main/documentations/TermsOfService/Terms.md)
